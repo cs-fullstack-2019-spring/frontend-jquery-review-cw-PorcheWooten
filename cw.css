@@ -1,0 +1,16 @@
+
+/*should draw a 3px green border*/
+.button1{
+    border: 3px solid green;
+}
+
+
+
+/*should draw a 3px red border*/
+.button2{
+    border: 3px solid red;
+}
+/*should draw a 3px blue border*/
+.button3{
+    border: 3px solid blue;
+}
