@@ -1,3 +1,7 @@
+### POINTS: 2.0
+### KEY: You made a copy/paste error for the counts for your Alert boxes. You left them all counting *all* <p> tags.
+### I could tell was just an accident and great comments, so let you slide. (this time) Always do one last test b4 final submission.
+
 # Review: JavaScript/jQuery
 
 ### Exercise 1: Selectors
